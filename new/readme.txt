@@ -1,5 +1,3 @@
-# linux_kernel_develoment
-
 # CSE330 Operating Systems - Fall 2023
 ## Assignment 1 - Kernel Compilation and Installation
 
